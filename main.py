@@ -11,7 +11,7 @@ import re
 from typing import Optional, List, Dict, Any
 
 # ==================== КОНФИГУРАЦИЯ ====================
-GROUP_TOKEN = "vk1.a.yvl38Ml6XZEa2allJ7OqkIKDO2O6cs79mkFP26cGdPgrkud-KEqm3pffRyiiy6qFm8CdoUWz4HiEpNHts8I_FgiNp_BA8-ikboubtDJCGgV1SRwo8k3a9m0lxSDgR9Ur2QZb1tZTmGrb1cIg6JYxs5KJCu-RHbuWp4Hm1FjQA4pUHUeyKnzE_HrkLMyE4CTQVYSfMgYiIH7HKFEvd3wpBw"
+GROUP_TOKEN = "vk1.a.DIHs3tDsCYSMzetUdq6Yxkr9q8LLFgxOkERo-n3ffmiG41yCgQfV1mnbqjt94iKHShAKCfUcEwLGMUMw3zTWzd9-oWdQDyZaV9GruPKBuY2mV7q-mwxvkBQwQSEJH_HzCE6Tt67cbWCBSO065fj44d94Ki_gDQizWnAeh4hmC-5vyzf8a08O28ueyPDC57NlihPcxlbAIseqZjwoMSa9bQ"
 GROUP_ID = 236907251
 PSYCHOLOGIST_IDS = [373422311]  # список ID психологов (можно добавить несколько)
 
