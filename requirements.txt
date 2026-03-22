@@ -1,1 +1,5 @@
-vk-api>=11.9.0
+vk-api
+apscheduler
+requests
+urllib3
+charset-normalizer
